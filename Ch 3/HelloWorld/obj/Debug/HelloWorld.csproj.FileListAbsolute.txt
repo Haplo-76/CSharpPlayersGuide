@@ -1,0 +1,7 @@
+C:\Users\w_tyn\source\repos\CSharpPlayersGuide\Ch3\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\w_tyn\source\repos\CSharpPlayersGuide\Ch3\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\w_tyn\source\repos\CSharpPlayersGuide\Ch3\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\w_tyn\source\repos\CSharpPlayersGuide\Ch3\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\w_tyn\source\repos\CSharpPlayersGuide\Ch3\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\w_tyn\source\repos\CSharpPlayersGuide\Ch3\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\w_tyn\source\repos\CSharpPlayersGuide\Ch3\HelloWorld\obj\Debug\HelloWorld.pdb
