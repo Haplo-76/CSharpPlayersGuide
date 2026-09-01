@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\w_tyn\\source\\repos\\CSharpPlayersGuide\\Ch6\\Variables\\",
+  "WorkspaceRootPath": "C:\\DEV\\CSharpPlayersGuide\\Ch6\\Variables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13E3977F-3E3C-4C84-921E-FA2D1CB637CA}|Variables.csproj|c:\\users\\w_tyn\\source\\repos\\csharpplayersguide\\ch6\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8ADF64CB-AAF5-4F43-9BEC-D20FDA0C320F}|..\\TypeSystem\\TypeSystem.csproj|c:\\dev\\csharpplayersguide\\ch6\\typesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E3977F-3E3C-4C84-921E-FA2D1CB637CA}|Variables.csproj|c:\\dev\\csharpplayersguide\\ch6\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E3977F-3E3C-4C84-921E-FA2D1CB637CA}|Variables.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,19 +17,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV\\CSharpPlayersGuide\\Ch6\\Variables\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DEV\\CSharpPlayersGuide\\Ch6\\Variables\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T18:52:12.132Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\w_tyn\\source\\repos\\CSharpPlayersGuide\\Ch6\\Variables\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\w_tyn\\source\\repos\\CSharpPlayersGuide\\Ch6\\Variables\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\DEV\\CSharpPlayersGuide\\Ch6\\TypeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TypeSystem\\Program.cs",
+              "ToolTip": "C:\\DEV\\CSharpPlayersGuide\\Ch6\\TypeSystem\\Program.cs*",
+              "RelativeToolTip": "..\\TypeSystem\\Program.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T18:52:12.132Z",
+              "WhenOpened": "2026-09-01T12:39:44.49Z",
               "EditorCaption": ""
             }
           ]

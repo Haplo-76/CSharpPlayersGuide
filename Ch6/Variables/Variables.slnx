@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../TypeSystem/TypeSystem.csproj" Id="8adf64cb-aaf5-4f43-9bec-d20fda0c320f" />
   <Project Path="Variables.csproj" Id="13e3977f-3e3c-4c84-921e-fa2d1cb637ca" />
 </Solution>
