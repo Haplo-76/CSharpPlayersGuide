@@ -36,6 +36,24 @@ namespace TypeSystem
             string myString = "Hello, World.";
             Console.WriteLine("My char is \'" + myLetter + "\' and my string is " + myString + "\n");
 
+            // floats have about 7 digits of precision, so may not distinguish 100_000 from 100_000.0001
+            // doubles have 15-16 digits of precision
+            // unlike floats and doubles, decimal types are not intrinsic to the hardware design and therefore slower. However, 
+            // they are more precise when dealiing with very small or very large numbers (think system of equations in biology or chemistry)
+
+            double myDouble = 3.5623123456789;
+            float myFloat = 3.5623123456789f;
+            decimal myDecimal = 3.5623123456789m; // the 'm' is for 'monetary'
+            double avogadro = 2.022e23;
+
+            Console.WriteLine("myDdouble = " + myDouble);
+            Console.WriteLine("myFloat = " + myFloat); // will show 7 decimal places
+            Console.WriteLine("myDecimal = " + myDecimal);
+            Console.WriteLine("avogadro = " + avogadro);
+
+            bool myBool = true;
+            Console.WriteLine("myBool + 1 = " + myBool + 1 + " which is just concatenation.");
+            Console.WriteLine("Numeric value of true is " + int)
 
 
 
