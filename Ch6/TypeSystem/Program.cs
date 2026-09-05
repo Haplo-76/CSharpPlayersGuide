@@ -53,7 +53,7 @@ namespace TypeSystem
 
             bool myBool = true;
             Console.WriteLine("myBool + 1 = " + myBool + 1 + " which is just concatenation.");
-            Console.WriteLine("Numeric value of true is " + int)
+            Console.WriteLine("Numeric value of true is " + myBool);
 
 
 

@@ -1,0 +1,22 @@
+# Visual Studio Files
+
+.vs/
+bin/
+obj/
+
+# NuGet packages (not needed here) https://www.tutorialspoint.com/article/what-is-the-best-way-to-create-a-gitignore-file-for-your-net-project
+
+# user-specific files
+*.suo
+*.user
+*.sln.docstates
+*csproj.user
+
+# Compiled binaries
+*.dll
+*.exe
+
+
+# Package Manager Directories
+node_modules/
+packages/
