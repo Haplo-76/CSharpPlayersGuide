@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Ch6/Variables/Math/TriangleFarmer.csproj" />
+  <Project Path="DominionOfKings/DominionOfKings.csproj" />
+  <Project Path="FourSistersAndTheDuckbear/FourSistersAndTheDuckbear.csproj" />
+</Solution>
